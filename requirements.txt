@@ -1,0 +1,8 @@
+# NoteMind-CLI Dependencies
+# Core functionality requires zero external dependencies
+# Python 3.8+ standard library only
+
+# Optional enhancements (uncomment if needed):
+# rich>=13.0.0          # Enhanced terminal output
+# requests>=2.28.0      # AI API integration
+# python-dotenv>=1.0.0  # Environment variable management
